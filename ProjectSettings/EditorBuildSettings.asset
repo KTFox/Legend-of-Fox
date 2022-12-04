@@ -8,4 +8,8 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/camp.unity
     guid: 2cda990e2423bbf4892e6590ba056729
-  m_configObjects: {}
+  - enabled: 1
+    path: Assets/Scenes/Map1.unity
+    guid: c72d7e4dee8d810438736b8181634442
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: 2abcd7aae3b267640b6c06f6dfca87b9, type: 2}
